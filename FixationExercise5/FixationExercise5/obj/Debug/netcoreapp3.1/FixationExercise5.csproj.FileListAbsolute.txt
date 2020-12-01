@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\bin\Debug\netcoreapp3.1\FixationExercise5.exe
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\bin\Debug\netcoreapp3.1\FixationExercise5.deps.json
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\bin\Debug\netcoreapp3.1\FixationExercise5.runtimeconfig.json
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\bin\Debug\netcoreapp3.1\FixationExercise5.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\bin\Debug\netcoreapp3.1\FixationExercise5.dll
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\bin\Debug\netcoreapp3.1\FixationExercise5.pdb
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\obj\Debug\netcoreapp3.1\FixationExercise5.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\obj\Debug\netcoreapp3.1\FixationExercise5.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\obj\Debug\netcoreapp3.1\FixationExercise5.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\obj\Debug\netcoreapp3.1\FixationExercise5.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\obj\Debug\netcoreapp3.1\FixationExercise5.dll
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\obj\Debug\netcoreapp3.1\FixationExercise5.pdb
+C:\dotnet-2020\dotnet\FixationExercise5\FixationExercise5\obj\Debug\netcoreapp3.1\FixationExercise5.genruntimeconfig.cache
