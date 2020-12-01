@@ -8,21 +8,10 @@ namespace CourseTypeBasic
         static void Main(string[] args)
         {
             int a = 10;
+            a++;
             Console.WriteLine(a);
 
-            a += 2;
-            Console.WriteLine(a);
-
-            a -= 3;
-            Console.WriteLine(a);
-
-            a *= 3;
-            Console.WriteLine(a);
-
-            a /= 3;
-            Console.WriteLine(a);
-
-            a %= 3;
+            a--;
             Console.WriteLine(a);
         }
     }
