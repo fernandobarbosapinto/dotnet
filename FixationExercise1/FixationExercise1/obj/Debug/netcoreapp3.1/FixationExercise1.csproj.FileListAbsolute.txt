@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\bin\Debug\netcoreapp3.1\FixationExercise1.exe
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\bin\Debug\netcoreapp3.1\FixationExercise1.deps.json
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\bin\Debug\netcoreapp3.1\FixationExercise1.runtimeconfig.json
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\bin\Debug\netcoreapp3.1\FixationExercise1.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\bin\Debug\netcoreapp3.1\FixationExercise1.dll
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\bin\Debug\netcoreapp3.1\FixationExercise1.pdb
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\obj\Debug\netcoreapp3.1\FixationExercise1.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\obj\Debug\netcoreapp3.1\FixationExercise1.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\obj\Debug\netcoreapp3.1\FixationExercise1.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\obj\Debug\netcoreapp3.1\FixationExercise1.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\obj\Debug\netcoreapp3.1\FixationExercise1.dll
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\obj\Debug\netcoreapp3.1\FixationExercise1.pdb
+C:\dotnet-2020\dotnet\FixationExercise1\FixationExercise1\obj\Debug\netcoreapp3.1\FixationExercise1.genruntimeconfig.cache
