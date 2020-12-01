@@ -1,0 +1,12 @@
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\bin\Debug\netcoreapp3.1\CourseConditionalStructure.exe
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\bin\Debug\netcoreapp3.1\CourseConditionalStructure.deps.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\bin\Debug\netcoreapp3.1\CourseConditionalStructure.runtimeconfig.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\bin\Debug\netcoreapp3.1\CourseConditionalStructure.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\bin\Debug\netcoreapp3.1\CourseConditionalStructure.dll
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\bin\Debug\netcoreapp3.1\CourseConditionalStructure.pdb
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\obj\Debug\netcoreapp3.1\CourseConditionalStructure.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\obj\Debug\netcoreapp3.1\CourseConditionalStructure.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\obj\Debug\netcoreapp3.1\CourseConditionalStructure.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\obj\Debug\netcoreapp3.1\CourseConditionalStructure.dll
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\obj\Debug\netcoreapp3.1\CourseConditionalStructure.pdb
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseConditionalStructure\CourseConditionalStructure\obj\Debug\netcoreapp3.1\CourseConditionalStructure.genruntimeconfig.cache
