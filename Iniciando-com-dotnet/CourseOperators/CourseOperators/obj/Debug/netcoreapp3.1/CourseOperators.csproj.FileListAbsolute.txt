@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\bin\Debug\netcoreapp3.1\CourseOperators.exe
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\bin\Debug\netcoreapp3.1\CourseOperators.deps.json
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\bin\Debug\netcoreapp3.1\CourseOperators.runtimeconfig.json
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\bin\Debug\netcoreapp3.1\CourseOperators.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\bin\Debug\netcoreapp3.1\CourseOperators.dll
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\bin\Debug\netcoreapp3.1\CourseOperators.pdb
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\obj\Debug\netcoreapp3.1\CourseOperators.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\obj\Debug\netcoreapp3.1\CourseOperators.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\obj\Debug\netcoreapp3.1\CourseOperators.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\obj\Debug\netcoreapp3.1\CourseOperators.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\obj\Debug\netcoreapp3.1\CourseOperators.dll
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\obj\Debug\netcoreapp3.1\CourseOperators.pdb
+C:\dotnet-2020\dotnet\CourseOperators\CourseOperators\obj\Debug\netcoreapp3.1\CourseOperators.genruntimeconfig.cache
