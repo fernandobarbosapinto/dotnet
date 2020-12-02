@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\bin\Debug\netcoreapp3.1\CourseStructureFor.exe
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\bin\Debug\netcoreapp3.1\CourseStructureFor.deps.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\bin\Debug\netcoreapp3.1\CourseStructureFor.runtimeconfig.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\bin\Debug\netcoreapp3.1\CourseStructureFor.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\bin\Debug\netcoreapp3.1\CourseStructureFor.dll
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\bin\Debug\netcoreapp3.1\CourseStructureFor.pdb
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\obj\Debug\netcoreapp3.1\CourseStructureFor.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\obj\Debug\netcoreapp3.1\CourseStructureFor.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\obj\Debug\netcoreapp3.1\CourseStructureFor.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\obj\Debug\netcoreapp3.1\CourseStructureFor.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\obj\Debug\netcoreapp3.1\CourseStructureFor.dll
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\obj\Debug\netcoreapp3.1\CourseStructureFor.pdb
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureFor\CourseStructureFor\obj\Debug\netcoreapp3.1\CourseStructureFor.genruntimeconfig.cache
