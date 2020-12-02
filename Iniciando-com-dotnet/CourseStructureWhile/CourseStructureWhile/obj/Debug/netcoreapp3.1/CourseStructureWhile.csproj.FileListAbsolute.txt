@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\bin\Debug\netcoreapp3.1\CourseStructureWhile.exe
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\bin\Debug\netcoreapp3.1\CourseStructureWhile.deps.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\bin\Debug\netcoreapp3.1\CourseStructureWhile.runtimeconfig.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\bin\Debug\netcoreapp3.1\CourseStructureWhile.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\bin\Debug\netcoreapp3.1\CourseStructureWhile.dll
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\bin\Debug\netcoreapp3.1\CourseStructureWhile.pdb
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\obj\Debug\netcoreapp3.1\CourseStructureWhile.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\obj\Debug\netcoreapp3.1\CourseStructureWhile.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\obj\Debug\netcoreapp3.1\CourseStructureWhile.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\obj\Debug\netcoreapp3.1\CourseStructureWhile.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\obj\Debug\netcoreapp3.1\CourseStructureWhile.dll
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\obj\Debug\netcoreapp3.1\CourseStructureWhile.pdb
+C:\dotnet-2020\dotnet\Iniciando-com-dotnet\CourseStructureWhile\CourseStructureWhile\obj\Debug\netcoreapp3.1\CourseStructureWhile.genruntimeconfig.cache
