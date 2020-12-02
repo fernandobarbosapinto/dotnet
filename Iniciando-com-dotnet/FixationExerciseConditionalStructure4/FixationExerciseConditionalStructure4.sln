@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixationExerciseConditionalStructure4", "FixationExerciseConditionalStructure4\FixationExerciseConditionalStructure4.csproj", "{EC2592BB-D3B3-44A8-B3F3-85D0CC5E0F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2592BB-D3B3-44A8-B3F3-85D0CC5E0F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2592BB-D3B3-44A8-B3F3-85D0CC5E0F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2592BB-D3B3-44A8-B3F3-85D0CC5E0F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2592BB-D3B3-44A8-B3F3-85D0CC5E0F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984D194F-102A-43C1-AC59-693D145C416A}
+	EndGlobalSection
+EndGlobal
