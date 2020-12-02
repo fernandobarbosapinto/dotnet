@@ -1,0 +1,13 @@
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\bin\Debug\netcoreapp3.1\CourseCreateMethod.exe
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\bin\Debug\netcoreapp3.1\CourseCreateMethod.deps.json
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\bin\Debug\netcoreapp3.1\CourseCreateMethod.runtimeconfig.json
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\bin\Debug\netcoreapp3.1\CourseCreateMethod.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\bin\Debug\netcoreapp3.1\CourseCreateMethod.dll
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\bin\Debug\netcoreapp3.1\CourseCreateMethod.pdb
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\obj\Debug\netcoreapp3.1\CourseCreateMethod.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\obj\Debug\netcoreapp3.1\CourseCreateMethod.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\obj\Debug\netcoreapp3.1\CourseCreateMethod.AssemblyInfo.cs
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\obj\Debug\netcoreapp3.1\CourseCreateMethod.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\obj\Debug\netcoreapp3.1\CourseCreateMethod.dll
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\obj\Debug\netcoreapp3.1\CourseCreateMethod.pdb
+C:\Users\pedro\source\repos\CourseCreateMethod\CourseCreateMethod\obj\Debug\netcoreapp3.1\CourseCreateMethod.genruntimeconfig.cache
