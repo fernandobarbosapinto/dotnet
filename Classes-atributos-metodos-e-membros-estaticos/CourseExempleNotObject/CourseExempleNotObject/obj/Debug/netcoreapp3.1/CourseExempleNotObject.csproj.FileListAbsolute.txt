@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\bin\Debug\netcoreapp3.1\CourseExempleNotObject.exe
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\bin\Debug\netcoreapp3.1\CourseExempleNotObject.deps.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\bin\Debug\netcoreapp3.1\CourseExempleNotObject.runtimeconfig.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\bin\Debug\netcoreapp3.1\CourseExempleNotObject.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\bin\Debug\netcoreapp3.1\CourseExempleNotObject.dll
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\bin\Debug\netcoreapp3.1\CourseExempleNotObject.pdb
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\obj\Debug\netcoreapp3.1\CourseExempleNotObject.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\obj\Debug\netcoreapp3.1\CourseExempleNotObject.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\obj\Debug\netcoreapp3.1\CourseExempleNotObject.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\obj\Debug\netcoreapp3.1\CourseExempleNotObject.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\obj\Debug\netcoreapp3.1\CourseExempleNotObject.dll
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\obj\Debug\netcoreapp3.1\CourseExempleNotObject.pdb
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleNotObject\CourseExempleNotObject\obj\Debug\netcoreapp3.1\CourseExempleNotObject.genruntimeconfig.cache
