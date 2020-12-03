@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\bin\Debug\netcoreapp3.1\CourseExempleObjectToString.exe
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\bin\Debug\netcoreapp3.1\CourseExempleObjectToString.deps.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\bin\Debug\netcoreapp3.1\CourseExempleObjectToString.runtimeconfig.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\bin\Debug\netcoreapp3.1\CourseExempleObjectToString.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\bin\Debug\netcoreapp3.1\CourseExempleObjectToString.dll
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\bin\Debug\netcoreapp3.1\CourseExempleObjectToString.pdb
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\obj\Debug\netcoreapp3.1\CourseExempleObjectToString.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\obj\Debug\netcoreapp3.1\CourseExempleObjectToString.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\obj\Debug\netcoreapp3.1\CourseExempleObjectToString.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\obj\Debug\netcoreapp3.1\CourseExempleObjectToString.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\obj\Debug\netcoreapp3.1\CourseExempleObjectToString.dll
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\obj\Debug\netcoreapp3.1\CourseExempleObjectToString.pdb
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleObjectToString\CourseExempleObjectToString\obj\Debug\netcoreapp3.1\CourseExempleObjectToString.genruntimeconfig.cache
