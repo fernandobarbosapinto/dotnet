@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\bin\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.exe
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\bin\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.deps.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\bin\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.runtimeconfig.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\bin\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\bin\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.dll
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\bin\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.pdb
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\obj\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\obj\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\obj\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\obj\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\obj\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.dll
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\obj\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.pdb
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\FixationExerciseClassesAtributos2\FixationExerciseClassesAtributos2\obj\Debug\netcoreapp3.1\FixationExerciseClassesAtributos2.genruntimeconfig.cache
