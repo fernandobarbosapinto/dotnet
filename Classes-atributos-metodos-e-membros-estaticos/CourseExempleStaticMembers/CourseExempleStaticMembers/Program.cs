@@ -14,17 +14,15 @@ namespace CourseExempleStaticMembers
 
         static void Main(string[] args)
         {
-            Calculadora calculadora = new Calculadora();
-
             Console.WriteLine("Digite o valor do raio: ");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double circunferencia = calculadora.Circunferencia(raio);
-            double volume = calculadora.Volume(raio);
+            double circunferencia = Calculadora.Circunferencia(raio);
+            double volume = Calculadora.Volume(raio);
 
             Console.WriteLine($"Valor da Circunferência: {circunferencia.ToString("F2", CultureInfo.InvariantCulture)}");
             Console.WriteLine($"Valor do Volume: {volume.ToString("F2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine($"Valor de Pi: {calculadora.Pi.ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Valor de Pi: {Calculadora.Pi.ToString("F2", CultureInfo.InvariantCulture)}");
 
         }
     }
