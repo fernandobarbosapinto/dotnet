@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\bin\Debug\netcoreapp3.1\CourseExempleStaticMembers.exe
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\bin\Debug\netcoreapp3.1\CourseExempleStaticMembers.deps.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\bin\Debug\netcoreapp3.1\CourseExempleStaticMembers.runtimeconfig.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\bin\Debug\netcoreapp3.1\CourseExempleStaticMembers.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\bin\Debug\netcoreapp3.1\CourseExempleStaticMembers.dll
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\bin\Debug\netcoreapp3.1\CourseExempleStaticMembers.pdb
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\obj\Debug\netcoreapp3.1\CourseExempleStaticMembers.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\obj\Debug\netcoreapp3.1\CourseExempleStaticMembers.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\obj\Debug\netcoreapp3.1\CourseExempleStaticMembers.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\obj\Debug\netcoreapp3.1\CourseExempleStaticMembers.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\obj\Debug\netcoreapp3.1\CourseExempleStaticMembers.dll
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\obj\Debug\netcoreapp3.1\CourseExempleStaticMembers.pdb
+C:\dotnet-2020\dotnet\Classes-atributos-metodos-e-membros-estaticos\CourseExempleStaticMembers\CourseExempleStaticMembers\obj\Debug\netcoreapp3.1\CourseExempleStaticMembers.genruntimeconfig.cache
