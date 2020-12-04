@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\obj\Debug\netcoreapp3.1\CourseExampleConstructor.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\obj\Debug\netcoreapp3.1\CourseExampleConstructor.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\obj\Debug\netcoreapp3.1\CourseExampleConstructor.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\obj\Debug\netcoreapp3.1\CourseExampleConstructor.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\bin\Debug\netcoreapp3.1\CourseExampleConstructor.exe
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\bin\Debug\netcoreapp3.1\CourseExampleConstructor.deps.json
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\bin\Debug\netcoreapp3.1\CourseExampleConstructor.runtimeconfig.json
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\bin\Debug\netcoreapp3.1\CourseExampleConstructor.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\bin\Debug\netcoreapp3.1\CourseExampleConstructor.dll
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\bin\Debug\netcoreapp3.1\CourseExampleConstructor.pdb
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\obj\Debug\netcoreapp3.1\CourseExampleConstructor.dll
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\obj\Debug\netcoreapp3.1\CourseExampleConstructor.pdb
+C:\dotnet-2020\dotnet\Construtores-this-sobrecarga-encapsulamento\CourseExampleConstructor\CourseExampleConstructor\obj\Debug\netcoreapp3.1\CourseExampleConstructor.genruntimeconfig.cache
