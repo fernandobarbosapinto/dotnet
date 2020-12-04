@@ -4,19 +4,31 @@ namespace CourseExampleConstructor
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; set; }
+        public int Quantidade { get; set; }
 
         public Produto()
         {
         }
 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco, int quantidade)
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
-            Quantidade = 0;
+            Quantidade = quantidade;
+        }
+
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
         }
 
         public double ValorTotalEmEstoque()
@@ -33,7 +45,7 @@ namespace CourseExampleConstructor
         }
         public override string ToString()
         {
-            return Nome
+            return _nome
             + ", $ "
             + Preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
