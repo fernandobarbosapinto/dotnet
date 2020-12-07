@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\bin\Debug\netcoreapp3.1\CourseExampleNullable.exe
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\bin\Debug\netcoreapp3.1\CourseExampleNullable.deps.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\bin\Debug\netcoreapp3.1\CourseExampleNullable.runtimeconfig.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\bin\Debug\netcoreapp3.1\CourseExampleNullable.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\bin\Debug\netcoreapp3.1\CourseExampleNullable.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\bin\Debug\netcoreapp3.1\CourseExampleNullable.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\obj\Debug\netcoreapp3.1\CourseExampleNullable.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\obj\Debug\netcoreapp3.1\CourseExampleNullable.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\obj\Debug\netcoreapp3.1\CourseExampleNullable.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\obj\Debug\netcoreapp3.1\CourseExampleNullable.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\obj\Debug\netcoreapp3.1\CourseExampleNullable.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\obj\Debug\netcoreapp3.1\CourseExampleNullable.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleNullable\CourseExampleNullable\obj\Debug\netcoreapp3.1\CourseExampleNullable.genruntimeconfig.cache
