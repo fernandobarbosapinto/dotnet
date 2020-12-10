@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\bin\Debug\netcoreapp3.1\CourseExampleList.exe
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\bin\Debug\netcoreapp3.1\CourseExampleList.deps.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\bin\Debug\netcoreapp3.1\CourseExampleList.runtimeconfig.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\bin\Debug\netcoreapp3.1\CourseExampleList.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\bin\Debug\netcoreapp3.1\CourseExampleList.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\bin\Debug\netcoreapp3.1\CourseExampleList.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\obj\Debug\netcoreapp3.1\CourseExampleList.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\obj\Debug\netcoreapp3.1\CourseExampleList.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\obj\Debug\netcoreapp3.1\CourseExampleList.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\obj\Debug\netcoreapp3.1\CourseExampleList.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\obj\Debug\netcoreapp3.1\CourseExampleList.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\obj\Debug\netcoreapp3.1\CourseExampleList.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleList\CourseExampleList\obj\Debug\netcoreapp3.1\CourseExampleList.genruntimeconfig.cache
