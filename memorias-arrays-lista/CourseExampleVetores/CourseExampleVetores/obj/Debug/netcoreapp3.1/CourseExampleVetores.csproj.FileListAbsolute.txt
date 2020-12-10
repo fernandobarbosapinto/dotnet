@@ -1,0 +1,12 @@
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\bin\Debug\netcoreapp3.1\CourseExampleVetores.exe
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\bin\Debug\netcoreapp3.1\CourseExampleVetores.deps.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\bin\Debug\netcoreapp3.1\CourseExampleVetores.runtimeconfig.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\bin\Debug\netcoreapp3.1\CourseExampleVetores.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\bin\Debug\netcoreapp3.1\CourseExampleVetores.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\bin\Debug\netcoreapp3.1\CourseExampleVetores.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\obj\Debug\netcoreapp3.1\CourseExampleVetores.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\obj\Debug\netcoreapp3.1\CourseExampleVetores.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\obj\Debug\netcoreapp3.1\CourseExampleVetores.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\obj\Debug\netcoreapp3.1\CourseExampleVetores.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\obj\Debug\netcoreapp3.1\CourseExampleVetores.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleVetores\CourseExampleVetores\obj\Debug\netcoreapp3.1\CourseExampleVetores.genruntimeconfig.cache
