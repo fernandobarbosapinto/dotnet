@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\bin\Debug\netcoreapp3.1\FixationExerciseVetor.exe
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\bin\Debug\netcoreapp3.1\FixationExerciseVetor.deps.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\bin\Debug\netcoreapp3.1\FixationExerciseVetor.runtimeconfig.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\bin\Debug\netcoreapp3.1\FixationExerciseVetor.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\bin\Debug\netcoreapp3.1\FixationExerciseVetor.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\bin\Debug\netcoreapp3.1\FixationExerciseVetor.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\obj\Debug\netcoreapp3.1\FixationExerciseVetor.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\obj\Debug\netcoreapp3.1\FixationExerciseVetor.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\obj\Debug\netcoreapp3.1\FixationExerciseVetor.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\obj\Debug\netcoreapp3.1\FixationExerciseVetor.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\obj\Debug\netcoreapp3.1\FixationExerciseVetor.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\obj\Debug\netcoreapp3.1\FixationExerciseVetor.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseVetor\FixationExerciseVetor\obj\Debug\netcoreapp3.1\FixationExerciseVetor.genruntimeconfig.cache
