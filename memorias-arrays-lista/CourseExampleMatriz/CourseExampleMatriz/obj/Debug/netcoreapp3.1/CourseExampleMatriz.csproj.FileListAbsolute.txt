@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\bin\Debug\netcoreapp3.1\CourseExampleMatriz.exe
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\bin\Debug\netcoreapp3.1\CourseExampleMatriz.deps.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\bin\Debug\netcoreapp3.1\CourseExampleMatriz.runtimeconfig.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\bin\Debug\netcoreapp3.1\CourseExampleMatriz.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\bin\Debug\netcoreapp3.1\CourseExampleMatriz.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\bin\Debug\netcoreapp3.1\CourseExampleMatriz.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\obj\Debug\netcoreapp3.1\CourseExampleMatriz.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\obj\Debug\netcoreapp3.1\CourseExampleMatriz.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\obj\Debug\netcoreapp3.1\CourseExampleMatriz.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\obj\Debug\netcoreapp3.1\CourseExampleMatriz.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\obj\Debug\netcoreapp3.1\CourseExampleMatriz.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\obj\Debug\netcoreapp3.1\CourseExampleMatriz.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\CourseExampleMatriz\CourseExampleMatriz\obj\Debug\netcoreapp3.1\CourseExampleMatriz.genruntimeconfig.cache
