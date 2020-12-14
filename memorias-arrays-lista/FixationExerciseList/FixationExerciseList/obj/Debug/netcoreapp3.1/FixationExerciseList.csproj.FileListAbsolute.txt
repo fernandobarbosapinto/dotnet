@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\bin\Debug\netcoreapp3.1\FixationExerciseList.exe
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\bin\Debug\netcoreapp3.1\FixationExerciseList.deps.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\bin\Debug\netcoreapp3.1\FixationExerciseList.runtimeconfig.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\bin\Debug\netcoreapp3.1\FixationExerciseList.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\bin\Debug\netcoreapp3.1\FixationExerciseList.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\bin\Debug\netcoreapp3.1\FixationExerciseList.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\obj\Debug\netcoreapp3.1\FixationExerciseList.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\obj\Debug\netcoreapp3.1\FixationExerciseList.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\obj\Debug\netcoreapp3.1\FixationExerciseList.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\obj\Debug\netcoreapp3.1\FixationExerciseList.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\obj\Debug\netcoreapp3.1\FixationExerciseList.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\obj\Debug\netcoreapp3.1\FixationExerciseList.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseList\FixationExerciseList\obj\Debug\netcoreapp3.1\FixationExerciseList.genruntimeconfig.cache
