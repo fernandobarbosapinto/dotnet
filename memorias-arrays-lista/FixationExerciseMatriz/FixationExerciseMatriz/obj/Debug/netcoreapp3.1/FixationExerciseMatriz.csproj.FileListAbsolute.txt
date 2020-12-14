@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\bin\Debug\netcoreapp3.1\FixationExerciseMatriz.exe
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\bin\Debug\netcoreapp3.1\FixationExerciseMatriz.deps.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\bin\Debug\netcoreapp3.1\FixationExerciseMatriz.runtimeconfig.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\bin\Debug\netcoreapp3.1\FixationExerciseMatriz.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\bin\Debug\netcoreapp3.1\FixationExerciseMatriz.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\bin\Debug\netcoreapp3.1\FixationExerciseMatriz.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\obj\Debug\netcoreapp3.1\FixationExerciseMatriz.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\obj\Debug\netcoreapp3.1\FixationExerciseMatriz.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\obj\Debug\netcoreapp3.1\FixationExerciseMatriz.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\obj\Debug\netcoreapp3.1\FixationExerciseMatriz.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\obj\Debug\netcoreapp3.1\FixationExerciseMatriz.dll
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\obj\Debug\netcoreapp3.1\FixationExerciseMatriz.pdb
+C:\dotnet-2020\dotnet\memorias-arrays-lista\FixationExerciseMatriz\FixationExerciseMatriz\obj\Debug\netcoreapp3.1\FixationExerciseMatriz.genruntimeconfig.cache
