@@ -1,0 +1,12 @@
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.exe
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.deps.json
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.runtimeconfig.json
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.dll
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.pdb
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.dll
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.pdb
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics7\CourseExampleSpecialTopics7\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics7.genruntimeconfig.cache
