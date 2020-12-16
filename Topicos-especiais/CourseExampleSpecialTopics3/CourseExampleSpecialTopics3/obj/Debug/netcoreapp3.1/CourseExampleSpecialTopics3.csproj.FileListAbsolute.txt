@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.exe
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.deps.json
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.runtimeconfig.json
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.dll
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\bin\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.pdb
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.dll
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.pdb
+C:\dotnet-2020\dotnet\Topicos-especiais\CourseExampleSpecialTopics3\CourseExampleSpecialTopics3\obj\Debug\netcoreapp3.1\CourseExampleSpecialTopics3.genruntimeconfig.cache
