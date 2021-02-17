@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\bin\Debug\netcoreapp3.1\enum1.exe
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\bin\Debug\netcoreapp3.1\enum1.deps.json
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\bin\Debug\netcoreapp3.1\enum1.runtimeconfig.json
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\bin\Debug\netcoreapp3.1\enum1.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\bin\Debug\netcoreapp3.1\enum1.dll
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\bin\Debug\netcoreapp3.1\enum1.pdb
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\obj\Debug\netcoreapp3.1\enum1.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\obj\Debug\netcoreapp3.1\enum1.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\obj\Debug\netcoreapp3.1\enum1.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\obj\Debug\netcoreapp3.1\enum1.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\obj\Debug\netcoreapp3.1\enum1.dll
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\obj\Debug\netcoreapp3.1\enum1.pdb
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\enum1\enum1\obj\Debug\netcoreapp3.1\enum1.genruntimeconfig.cache
