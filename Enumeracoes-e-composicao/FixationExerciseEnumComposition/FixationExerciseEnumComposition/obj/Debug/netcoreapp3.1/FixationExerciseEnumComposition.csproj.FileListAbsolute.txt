@@ -1,0 +1,13 @@
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\bin\Debug\netcoreapp3.1\FixationExerciseEnumComposition.exe
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\bin\Debug\netcoreapp3.1\FixationExerciseEnumComposition.deps.json
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\bin\Debug\netcoreapp3.1\FixationExerciseEnumComposition.runtimeconfig.json
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\bin\Debug\netcoreapp3.1\FixationExerciseEnumComposition.runtimeconfig.dev.json
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\bin\Debug\netcoreapp3.1\FixationExerciseEnumComposition.dll
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\bin\Debug\netcoreapp3.1\FixationExerciseEnumComposition.pdb
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\obj\Debug\netcoreapp3.1\FixationExerciseEnumComposition.csprojAssemblyReference.cache
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\obj\Debug\netcoreapp3.1\FixationExerciseEnumComposition.AssemblyInfoInputs.cache
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\obj\Debug\netcoreapp3.1\FixationExerciseEnumComposition.AssemblyInfo.cs
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\obj\Debug\netcoreapp3.1\FixationExerciseEnumComposition.csproj.CoreCompileInputs.cache
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\obj\Debug\netcoreapp3.1\FixationExerciseEnumComposition.dll
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\obj\Debug\netcoreapp3.1\FixationExerciseEnumComposition.pdb
+C:\dotnet-2020\dotnet\Enumeracoes-e-composicao\FixationExerciseEnumComposition\FixationExerciseEnumComposition\obj\Debug\netcoreapp3.1\FixationExerciseEnumComposition.genruntimeconfig.cache
