@@ -20,18 +20,23 @@ namespace xadrez_console
             
             try
             {
-                Tabuleiro tab = new Tabuleiro(8, 8);
+                PartidaDeXadrez partida = new PartidaDeXadrez();
+                while (!partida.terminada)
+                {
+                    Console.Clear();
+                    Tela.imprimirTabuleiro(partida.tab);
 
-                tab.colocarPeca(new Torre(tab, Cor.Branca), new Posicao(0, 7));
-                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(0, 2));
-                tab.colocarPeca(new Rei(tab, Cor.Branca), new Posicao(1, 1));
-                tab.colocarPeca(new Rei(tab, Cor.Branca), new Posicao(5, 2));
+                    Console.WriteLine();
 
-                Tela.imprimirTabuleiro(tab);
+                    Console.Write("Digite a posição da peça que deseja movimentar(ORIGEM)");
+                    Posicao origem = Tela.lerPosicaoXadrez().toPosicao();
 
-                Console.ReadLine();
+                    Console.Write("Digite a posição para aonde deseja movimentar(DESTINO)");
+                    Posicao destino = Tela.lerPosicaoXadrez().toPosicao();
+
+                    partida.executaMovimento(origem, destino);
+                }
+
             }
             catch (TabuleiroException e)
             {
