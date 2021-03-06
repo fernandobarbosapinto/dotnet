@@ -28,10 +28,15 @@ namespace xadrez_console
 
                     Console.WriteLine();
 
-                    Console.Write("Digite a posição da peça que deseja movimentar(ORIGEM)");
+                    Console.Write("Digite a posição da peça que deseja movimentar(ORIGEM): ");
                     Posicao origem = Tela.lerPosicaoXadrez().toPosicao();
 
-                    Console.Write("Digite a posição para aonde deseja movimentar(DESTINO)");
+                    bool[,] posicoesPossiveis = partida.tab.peca(origem).movimentosPossiveis();
+                    Console.Clear();
+                    Tela.imprimirTabuleiro(partida.tab, posicoesPossiveis);
+
+                    Console.WriteLine();
+                    Console.Write("Digite a posição para aonde deseja movimentar(DESTINO): ");
                     Posicao destino = Tela.lerPosicaoXadrez().toPosicao();
 
                     partida.executaMovimento(origem, destino);
