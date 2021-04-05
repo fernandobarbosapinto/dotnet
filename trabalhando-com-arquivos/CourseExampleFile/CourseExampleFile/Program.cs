@@ -14,6 +14,11 @@ namespace CourseExampleFile
             {
                 FileInfo fileInfo = new FileInfo(sourcePath);
                 fileInfo.CopyTo(targetPath);
+                string[] lines = File.ReadAllLines(sourcePath);
+                foreach(string line in lines)
+                {
+                    Console.WriteLine(line);
+                }
             }
             catch (IOException e)
             {
