@@ -1,0 +1,12 @@
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\bin\Debug\netcoreapp3.1\CourseExampleStreamWriter.exe
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\bin\Debug\netcoreapp3.1\CourseExampleStreamWriter.deps.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\bin\Debug\netcoreapp3.1\CourseExampleStreamWriter.runtimeconfig.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\bin\Debug\netcoreapp3.1\CourseExampleStreamWriter.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\bin\Debug\netcoreapp3.1\CourseExampleStreamWriter.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\bin\Debug\netcoreapp3.1\CourseExampleStreamWriter.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\obj\Debug\netcoreapp3.1\CourseExampleStreamWriter.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\obj\Debug\netcoreapp3.1\CourseExampleStreamWriter.AssemblyInfo.cs
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\obj\Debug\netcoreapp3.1\CourseExampleStreamWriter.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\obj\Debug\netcoreapp3.1\CourseExampleStreamWriter.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\obj\Debug\netcoreapp3.1\CourseExampleStreamWriter.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleStreamWriter\CourseExampleStreamWriter\obj\Debug\netcoreapp3.1\CourseExampleStreamWriter.genruntimeconfig.cache
