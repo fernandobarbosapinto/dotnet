@@ -9,16 +9,24 @@ namespace CourseExampleBlocoUsing
         {
             string path = @"c:\temp\file1.txt";
 
-            using (FileStream fs = new FileStream(path, FileMode.Open))
+            try
             {
-                using (StreamReader sr = new StreamReader(fs))
+                using (FileStream fs = new FileStream(path, FileMode.Open))
                 {
-                    while (!sr.EndOfStream)
+                    using (StreamReader sr = new StreamReader(fs))
                     {
-                        string line = sr.ReadLine();
-                        Console.WriteLine(line);
+                        while (!sr.EndOfStream)
+                        {
+                            string line = sr.ReadLine();
+                            Console.WriteLine(line);
+                        }
                     }
                 }
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine("An error ocurred");
+                Console.WriteLine(e.Message);
             }
         }
     }
