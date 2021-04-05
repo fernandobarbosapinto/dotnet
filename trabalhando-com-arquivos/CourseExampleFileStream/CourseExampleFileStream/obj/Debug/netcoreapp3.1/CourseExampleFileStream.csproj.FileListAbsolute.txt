@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\bin\Debug\netcoreapp3.1\CourseExampleFileStream.exe
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\bin\Debug\netcoreapp3.1\CourseExampleFileStream.deps.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\bin\Debug\netcoreapp3.1\CourseExampleFileStream.runtimeconfig.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\bin\Debug\netcoreapp3.1\CourseExampleFileStream.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\bin\Debug\netcoreapp3.1\CourseExampleFileStream.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\bin\Debug\netcoreapp3.1\CourseExampleFileStream.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\obj\Debug\netcoreapp3.1\CourseExampleFileStream.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\obj\Debug\netcoreapp3.1\CourseExampleFileStream.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\obj\Debug\netcoreapp3.1\CourseExampleFileStream.AssemblyInfo.cs
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\obj\Debug\netcoreapp3.1\CourseExampleFileStream.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\obj\Debug\netcoreapp3.1\CourseExampleFileStream.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\obj\Debug\netcoreapp3.1\CourseExampleFileStream.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFileStream\CourseExampleFileStream\obj\Debug\netcoreapp3.1\CourseExampleFileStream.genruntimeconfig.cache
