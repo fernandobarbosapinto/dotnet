@@ -1,0 +1,12 @@
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\bin\Debug\netcoreapp3.1\CourseExampleBlocoUsing.exe
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\bin\Debug\netcoreapp3.1\CourseExampleBlocoUsing.deps.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\bin\Debug\netcoreapp3.1\CourseExampleBlocoUsing.runtimeconfig.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\bin\Debug\netcoreapp3.1\CourseExampleBlocoUsing.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\bin\Debug\netcoreapp3.1\CourseExampleBlocoUsing.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\bin\Debug\netcoreapp3.1\CourseExampleBlocoUsing.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\obj\Debug\netcoreapp3.1\CourseExampleBlocoUsing.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\obj\Debug\netcoreapp3.1\CourseExampleBlocoUsing.AssemblyInfo.cs
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\obj\Debug\netcoreapp3.1\CourseExampleBlocoUsing.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\obj\Debug\netcoreapp3.1\CourseExampleBlocoUsing.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\obj\Debug\netcoreapp3.1\CourseExampleBlocoUsing.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleBlocoUsing\CourseExampleBlocoUsing\obj\Debug\netcoreapp3.1\CourseExampleBlocoUsing.genruntimeconfig.cache
