@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\bin\Debug\netcoreapp3.1\CourseExampleFile.exe
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\bin\Debug\netcoreapp3.1\CourseExampleFile.deps.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\bin\Debug\netcoreapp3.1\CourseExampleFile.runtimeconfig.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\bin\Debug\netcoreapp3.1\CourseExampleFile.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\bin\Debug\netcoreapp3.1\CourseExampleFile.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\bin\Debug\netcoreapp3.1\CourseExampleFile.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\obj\Debug\netcoreapp3.1\CourseExampleFile.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\obj\Debug\netcoreapp3.1\CourseExampleFile.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\obj\Debug\netcoreapp3.1\CourseExampleFile.AssemblyInfo.cs
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\obj\Debug\netcoreapp3.1\CourseExampleFile.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\obj\Debug\netcoreapp3.1\CourseExampleFile.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\obj\Debug\netcoreapp3.1\CourseExampleFile.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleFile\CourseExampleFile\obj\Debug\netcoreapp3.1\CourseExampleFile.genruntimeconfig.cache
