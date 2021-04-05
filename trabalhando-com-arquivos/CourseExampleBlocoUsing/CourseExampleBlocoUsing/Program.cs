@@ -11,17 +11,16 @@ namespace CourseExampleBlocoUsing
 
             try
             {
-                using (FileStream fs = new FileStream(path, FileMode.Open))
+
+                using (StreamReader sr = File.OpenText(path))
                 {
-                    using (StreamReader sr = new StreamReader(fs))
+                    while (!sr.EndOfStream)
                     {
-                        while (!sr.EndOfStream)
-                        {
-                            string line = sr.ReadLine();
-                            Console.WriteLine(line);
-                        }
+                        string line = sr.ReadLine();
+                        Console.WriteLine(line);
                     }
                 }
+
             }
             catch (IOException e)
             {
