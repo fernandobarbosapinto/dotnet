@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\bin\Debug\netcoreapp3.1\CourseExampleDirectory.exe
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\bin\Debug\netcoreapp3.1\CourseExampleDirectory.deps.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\bin\Debug\netcoreapp3.1\CourseExampleDirectory.runtimeconfig.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\bin\Debug\netcoreapp3.1\CourseExampleDirectory.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\bin\Debug\netcoreapp3.1\CourseExampleDirectory.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\bin\Debug\netcoreapp3.1\CourseExampleDirectory.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\obj\Debug\netcoreapp3.1\CourseExampleDirectory.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\obj\Debug\netcoreapp3.1\CourseExampleDirectory.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\obj\Debug\netcoreapp3.1\CourseExampleDirectory.AssemblyInfo.cs
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\obj\Debug\netcoreapp3.1\CourseExampleDirectory.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\obj\Debug\netcoreapp3.1\CourseExampleDirectory.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\obj\Debug\netcoreapp3.1\CourseExampleDirectory.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExampleDirectory\CourseExampleDirectory\obj\Debug\netcoreapp3.1\CourseExampleDirectory.genruntimeconfig.cache
