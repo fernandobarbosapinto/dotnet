@@ -24,6 +24,8 @@ namespace CourseExampleDirectory
                 {
                     Console.WriteLine(file);
                 }
+
+                Directory.CreateDirectory(path + "\\novaPasta");
             }
             catch (IOException e)
             {
