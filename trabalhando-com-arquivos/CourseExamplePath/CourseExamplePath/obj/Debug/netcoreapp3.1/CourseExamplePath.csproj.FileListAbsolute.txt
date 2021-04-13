@@ -1,0 +1,12 @@
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\bin\Debug\netcoreapp3.1\CourseExamplePath.exe
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\bin\Debug\netcoreapp3.1\CourseExamplePath.deps.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\bin\Debug\netcoreapp3.1\CourseExamplePath.runtimeconfig.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\bin\Debug\netcoreapp3.1\CourseExamplePath.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\bin\Debug\netcoreapp3.1\CourseExamplePath.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\bin\Debug\netcoreapp3.1\CourseExamplePath.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\obj\Debug\netcoreapp3.1\CourseExamplePath.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\obj\Debug\netcoreapp3.1\CourseExamplePath.AssemblyInfo.cs
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\obj\Debug\netcoreapp3.1\CourseExamplePath.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\obj\Debug\netcoreapp3.1\CourseExamplePath.dll
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\obj\Debug\netcoreapp3.1\CourseExamplePath.pdb
+C:\meus-projetos\dotnet\trabalhando-com-arquivos\CourseExamplePath\CourseExamplePath\obj\Debug\netcoreapp3.1\CourseExamplePath.genruntimeconfig.cache
