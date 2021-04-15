@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\bin\Debug\netcoreapp3.1\CoursoExerciseInterface.exe
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\bin\Debug\netcoreapp3.1\CoursoExerciseInterface.deps.json
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\bin\Debug\netcoreapp3.1\CoursoExerciseInterface.runtimeconfig.json
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\bin\Debug\netcoreapp3.1\CoursoExerciseInterface.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\bin\Debug\netcoreapp3.1\CoursoExerciseInterface.dll
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\bin\Debug\netcoreapp3.1\CoursoExerciseInterface.pdb
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\obj\Debug\netcoreapp3.1\CoursoExerciseInterface.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\obj\Debug\netcoreapp3.1\CoursoExerciseInterface.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\obj\Debug\netcoreapp3.1\CoursoExerciseInterface.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\obj\Debug\netcoreapp3.1\CoursoExerciseInterface.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\obj\Debug\netcoreapp3.1\CoursoExerciseInterface.dll
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\obj\Debug\netcoreapp3.1\CoursoExerciseInterface.pdb
+C:\meus-projetos\dotnet\Interfaces\CoursoExerciseInterface\CoursoExerciseInterface\obj\Debug\netcoreapp3.1\CoursoExerciseInterface.genruntimeconfig.cache
