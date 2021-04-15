@@ -27,7 +27,7 @@ namespace CourseExampleInterface
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
-            RentalServices rentalService = new RentalServices(hour, day);
+            RentalServices rentalService = new RentalServices(hour, day, new BrasilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 
