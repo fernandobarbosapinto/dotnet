@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\bin\Debug\netcoreapp3.1\CourseExampleInterface.exe
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\bin\Debug\netcoreapp3.1\CourseExampleInterface.deps.json
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\bin\Debug\netcoreapp3.1\CourseExampleInterface.runtimeconfig.json
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\bin\Debug\netcoreapp3.1\CourseExampleInterface.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\bin\Debug\netcoreapp3.1\CourseExampleInterface.dll
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\bin\Debug\netcoreapp3.1\CourseExampleInterface.pdb
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\obj\Debug\netcoreapp3.1\CourseExampleInterface.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\obj\Debug\netcoreapp3.1\CourseExampleInterface.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\obj\Debug\netcoreapp3.1\CourseExampleInterface.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\obj\Debug\netcoreapp3.1\CourseExampleInterface.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\obj\Debug\netcoreapp3.1\CourseExampleInterface.dll
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\obj\Debug\netcoreapp3.1\CourseExampleInterface.pdb
+C:\meus-projetos\dotnet\Interfaces\CourseExampleInterface\CourseExampleInterface\obj\Debug\netcoreapp3.1\CourseExampleInterface.genruntimeconfig.cache
