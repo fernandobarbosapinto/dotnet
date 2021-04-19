@@ -1,0 +1,12 @@
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\bin\Debug\netcoreapp3.1\CourseExampleConjuntos2.exe
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\bin\Debug\netcoreapp3.1\CourseExampleConjuntos2.deps.json
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\bin\Debug\netcoreapp3.1\CourseExampleConjuntos2.runtimeconfig.json
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\bin\Debug\netcoreapp3.1\CourseExampleConjuntos2.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\bin\Debug\netcoreapp3.1\CourseExampleConjuntos2.dll
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\bin\Debug\netcoreapp3.1\CourseExampleConjuntos2.pdb
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\obj\Debug\netcoreapp3.1\CourseExampleConjuntos2.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\obj\Debug\netcoreapp3.1\CourseExampleConjuntos2.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\obj\Debug\netcoreapp3.1\CourseExampleConjuntos2.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\obj\Debug\netcoreapp3.1\CourseExampleConjuntos2.dll
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\obj\Debug\netcoreapp3.1\CourseExampleConjuntos2.pdb
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos2\CourseExampleConjuntos2\obj\Debug\netcoreapp3.1\CourseExampleConjuntos2.genruntimeconfig.cache
