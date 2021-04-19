@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\bin\Debug\netcoreapp3.1\CourseExampleGetHashCode.exe
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\bin\Debug\netcoreapp3.1\CourseExampleGetHashCode.deps.json
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\bin\Debug\netcoreapp3.1\CourseExampleGetHashCode.runtimeconfig.json
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\bin\Debug\netcoreapp3.1\CourseExampleGetHashCode.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\bin\Debug\netcoreapp3.1\CourseExampleGetHashCode.dll
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\bin\Debug\netcoreapp3.1\CourseExampleGetHashCode.pdb
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\obj\Debug\netcoreapp3.1\CourseExampleGetHashCode.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\obj\Debug\netcoreapp3.1\CourseExampleGetHashCode.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\obj\Debug\netcoreapp3.1\CourseExampleGetHashCode.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\obj\Debug\netcoreapp3.1\CourseExampleGetHashCode.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\obj\Debug\netcoreapp3.1\CourseExampleGetHashCode.dll
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\obj\Debug\netcoreapp3.1\CourseExampleGetHashCode.pdb
+C:\meus-projetos\dotnet\Generics\CourseExampleGetHashCode\CourseExampleGetHashCode\obj\Debug\netcoreapp3.1\CourseExampleGetHashCode.genruntimeconfig.cache
