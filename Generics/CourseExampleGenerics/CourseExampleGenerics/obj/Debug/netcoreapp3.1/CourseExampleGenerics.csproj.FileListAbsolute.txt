@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\bin\Debug\netcoreapp3.1\CourseExampleGenerics.exe
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\bin\Debug\netcoreapp3.1\CourseExampleGenerics.deps.json
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\bin\Debug\netcoreapp3.1\CourseExampleGenerics.runtimeconfig.json
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\bin\Debug\netcoreapp3.1\CourseExampleGenerics.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\bin\Debug\netcoreapp3.1\CourseExampleGenerics.dll
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\bin\Debug\netcoreapp3.1\CourseExampleGenerics.pdb
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\obj\Debug\netcoreapp3.1\CourseExampleGenerics.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\obj\Debug\netcoreapp3.1\CourseExampleGenerics.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\obj\Debug\netcoreapp3.1\CourseExampleGenerics.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\obj\Debug\netcoreapp3.1\CourseExampleGenerics.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\obj\Debug\netcoreapp3.1\CourseExampleGenerics.dll
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\obj\Debug\netcoreapp3.1\CourseExampleGenerics.pdb
+C:\meus-projetos\dotnet\Generics\CourseExampleGenerics\CourseExampleGenerics\obj\Debug\netcoreapp3.1\CourseExampleGenerics.genruntimeconfig.cache
