@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CourseExampleRestricoesGenerics.Services
+namespace Course.Services
 {
     class CalculationService
     {
