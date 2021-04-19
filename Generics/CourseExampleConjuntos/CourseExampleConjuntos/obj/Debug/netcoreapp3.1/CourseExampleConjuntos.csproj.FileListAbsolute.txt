@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\bin\Debug\netcoreapp3.1\CourseExampleConjuntos.exe
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\bin\Debug\netcoreapp3.1\CourseExampleConjuntos.deps.json
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\bin\Debug\netcoreapp3.1\CourseExampleConjuntos.runtimeconfig.json
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\bin\Debug\netcoreapp3.1\CourseExampleConjuntos.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\bin\Debug\netcoreapp3.1\CourseExampleConjuntos.dll
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\bin\Debug\netcoreapp3.1\CourseExampleConjuntos.pdb
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\obj\Debug\netcoreapp3.1\CourseExampleConjuntos.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\obj\Debug\netcoreapp3.1\CourseExampleConjuntos.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\obj\Debug\netcoreapp3.1\CourseExampleConjuntos.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\obj\Debug\netcoreapp3.1\CourseExampleConjuntos.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\obj\Debug\netcoreapp3.1\CourseExampleConjuntos.dll
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\obj\Debug\netcoreapp3.1\CourseExampleConjuntos.pdb
+C:\meus-projetos\dotnet\Generics\CourseExampleConjuntos\CourseExampleConjuntos\obj\Debug\netcoreapp3.1\CourseExampleConjuntos.genruntimeconfig.cache
