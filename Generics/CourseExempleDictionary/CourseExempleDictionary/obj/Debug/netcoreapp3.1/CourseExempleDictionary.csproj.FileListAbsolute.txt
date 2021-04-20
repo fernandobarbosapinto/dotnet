@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\bin\Debug\netcoreapp3.1\CourseExempleDictionary.exe
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\bin\Debug\netcoreapp3.1\CourseExempleDictionary.deps.json
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\bin\Debug\netcoreapp3.1\CourseExempleDictionary.runtimeconfig.json
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\bin\Debug\netcoreapp3.1\CourseExempleDictionary.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\bin\Debug\netcoreapp3.1\CourseExempleDictionary.dll
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\bin\Debug\netcoreapp3.1\CourseExempleDictionary.pdb
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\obj\Debug\netcoreapp3.1\CourseExempleDictionary.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\obj\Debug\netcoreapp3.1\CourseExempleDictionary.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\obj\Debug\netcoreapp3.1\CourseExempleDictionary.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\obj\Debug\netcoreapp3.1\CourseExempleDictionary.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\obj\Debug\netcoreapp3.1\CourseExempleDictionary.dll
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\obj\Debug\netcoreapp3.1\CourseExempleDictionary.pdb
+C:\meus-projetos\dotnet\Generics\CourseExempleDictionary\CourseExempleDictionary\obj\Debug\netcoreapp3.1\CourseExempleDictionary.genruntimeconfig.cache
