@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\bin\Debug\netcoreapp3.1\CourseExtensionMethods.exe
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\bin\Debug\netcoreapp3.1\CourseExtensionMethods.deps.json
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\bin\Debug\netcoreapp3.1\CourseExtensionMethods.runtimeconfig.json
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\bin\Debug\netcoreapp3.1\CourseExtensionMethods.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\bin\Debug\netcoreapp3.1\CourseExtensionMethods.dll
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\bin\Debug\netcoreapp3.1\CourseExtensionMethods.pdb
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\obj\Debug\netcoreapp3.1\CourseExtensionMethods.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\obj\Debug\netcoreapp3.1\CourseExtensionMethods.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\obj\Debug\netcoreapp3.1\CourseExtensionMethods.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\obj\Debug\netcoreapp3.1\CourseExtensionMethods.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\obj\Debug\netcoreapp3.1\CourseExtensionMethods.dll
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\obj\Debug\netcoreapp3.1\CourseExtensionMethods.pdb
+C:\meus-projetos\dotnet\Extension-methods\CourseExtensionMethods\CourseExtensionMethods\obj\Debug\netcoreapp3.1\CourseExtensionMethods.genruntimeconfig.cache
