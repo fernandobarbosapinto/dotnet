@@ -1,0 +1,13 @@
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\bin\Debug\netcoreapp3.1\CourseExampleComparison.exe
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\bin\Debug\netcoreapp3.1\CourseExampleComparison.deps.json
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\bin\Debug\netcoreapp3.1\CourseExampleComparison.runtimeconfig.json
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\bin\Debug\netcoreapp3.1\CourseExampleComparison.runtimeconfig.dev.json
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\bin\Debug\netcoreapp3.1\CourseExampleComparison.dll
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\bin\Debug\netcoreapp3.1\CourseExampleComparison.pdb
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\obj\Debug\netcoreapp3.1\CourseExampleComparison.csprojAssemblyReference.cache
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\obj\Debug\netcoreapp3.1\CourseExampleComparison.AssemblyInfoInputs.cache
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\obj\Debug\netcoreapp3.1\CourseExampleComparison.AssemblyInfo.cs
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\obj\Debug\netcoreapp3.1\CourseExampleComparison.csproj.CoreCompileInputs.cache
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\obj\Debug\netcoreapp3.1\CourseExampleComparison.dll
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\obj\Debug\netcoreapp3.1\CourseExampleComparison.pdb
+C:\meus-projetos\dotnet\Programacao-Funcional-Delegate-linQ\CourseExampleComparison\CourseExampleComparison\obj\Debug\netcoreapp3.1\CourseExampleComparison.genruntimeconfig.cache
