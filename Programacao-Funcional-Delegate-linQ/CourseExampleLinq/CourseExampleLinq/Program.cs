@@ -38,8 +38,10 @@ namespace CourseExampleLinq
             };
 
             var r1 = products.Where(p => p.Category.Qualification == 1 && p.Price < 900.0);
+            Print("Qualification 1 and price < 900: ", r1);
 
-           Print("Qualification 1 and price < 900: ", r1);
+            var r2 = products.Where(p => p.Category.Name == "Tools");
+            Print("Names of products from tools", r2);
         }
     }
 }
